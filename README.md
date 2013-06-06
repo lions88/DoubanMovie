@@ -2,6 +2,7 @@ DoubanMovie
 ===========
 
 豆瓣电影开放平台Android SDK
+
 this sdk base OAuth2.0;
 
 when get AccessToken succ, save it to preferences file. and
