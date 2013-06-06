@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="transparent_background">#e0000000</color>
+    <color name="comment_background">#ffdbe7eb</color>
+    <color name="blue_text">#ff46c1fd</color>
+    <color name="group_text">#ffffffff</color>
+    <color name="home_text">#ff6b7886</color>
+    <color name="radiobutton_text_color">#ff999999</color>
+    <color name="topic_top_background">#ffdedede</color>
+    <color name="topic_text_button_color">#ff666666</color>
+    <color name="user_info_title_color">#ff595959</color>
+    <color name="comments_small_title_color">#ff364869</color>
+    <color name="comments_title_color">#ff747474</color>
+    <color name="setting_bg_color">#fff4f4f4</color>
+    <color name="setting_preference_text_disable">#ff686868</color>
+    <color name="setting_account_text_normal">#ff4a4a4a</color>
+    <color name="send_default_color">#1d98d1</color>
+    
+    <color name="focus_color">#ff781e</color>
+    <color name="send_unfocus_color">#3b5997</color>
+    
+    <!-- 透明色 -->
+    <color name="transparent">#00000000</color>	
+    <!--黑色 --> 
+    <color name="black">#000000</color>
+    <!--灰色 --> 
+	<color name="grey">#808080</color>
+	<!--白色 --> 
+	<color name="white">#FFFFFF</color>
+	<!--蓝色 --> 
+	<color name="blue">#0000FF</color>
+	<!--绿色 --> 
+	<color name="green">#008000</color>
+	<!--象牙色 -->
+	<color name="ivory">#FFFFF0</color>
+<color name="lavender">#e6e6fa</color><!--淡紫色 --> 
+<color name="lightcyan">#e0ffff</color><!--亮青色 --> 
+<color name="burlywood">#deb887</color><!--实木色 --> 
+<color name="plum">#dda0dd</color><!--洋李色 --> 
+<color name="aquamarine">#7fffd4</color><!--碧绿色 --> 
+<color name="chartreuse">#7fff00</color><!--黄绿色 --> 
+<color name="lawngreen">#7cfc00</color><!--草绿色 --> 
+<color name="yellow">#ffff00</color><!--黄色 --> 
+<color name="snow">#fffafa</color><!--雪白色 --> 	    	
+</resources>
